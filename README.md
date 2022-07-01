@@ -5,7 +5,7 @@
 
 ## Tech Stack
 
-###used it as main
+### used it as main
 
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=#F7DF1E&logoColor=black">
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
@@ -13,14 +13,14 @@
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 
-###used at least once
+### used at least once
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 
-## git stat
+## Git stat
 ![kimmyuung's github stats](https://github-readme-stats.vercel.app/api?username=kimmyuung&show_icons=true)
 
 
