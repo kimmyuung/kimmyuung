@@ -1,6 +1,4 @@
-# Dillinger
 
-### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Kim-Myung-Ho&fontSize=90)
 
@@ -24,7 +22,7 @@
 
 
 ## git stat
-![rlaaudgh1003@daum.net's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![kimmyuung's github stats](https://github-readme-stats.vercel.app/api?username=kimmyuung&show_icons=true)
 
 
 <!--
