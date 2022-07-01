@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Kim-Myung-Ho%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Kim-Myung-Ho&fontSize=90)
 
 
 ## Tech Stack
@@ -24,7 +24,7 @@
 
 
 ## git stat
-![kimmyuung's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![rlaaudgh1003@daum.net's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
 
 
 <!--
