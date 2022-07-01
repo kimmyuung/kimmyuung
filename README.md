@@ -7,16 +7,16 @@
 
 ### used it as main
 
-<img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
-<img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
-<img src="https://img.shields.io/badge/#4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
-<img src="https://img.shields.io/badge/#7952B3?style=for-the-badge&logo=Bootstrap&logoColor=black">
+<img src="https://img.shields.io/badge/F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
+<img src="https://img.shields.io/badge/6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
+<img src="https://img.shields.io/badge/4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
+<img src="https://img.shields.io/badge/7952B3?style=for-the-badge&logo=Bootstrap&logoColor=black">
 
 ### used at least once
-<img src="https://img.shields.io/badge/#FCC624?style=for-the-badge&logo=Linux&logoColor=black">
-<img src="https://img.shields.io/badge/#FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=black">
-<img src="https://img.shields.io/badge/#0769AD?style=for-the-badge&logo=jQuery&logoColor=black">
-<img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black">
+<img src="https://img.shields.io/badge/FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=black">
+<img src="https://img.shields.io/badge/0769AD?style=for-the-badge&logo=jQuery&logoColor=black">
+<img src="https://img.shields.io/badge/6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black">
 
 
 
