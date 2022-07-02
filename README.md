@@ -30,7 +30,9 @@
 ## My Project
 <a href="https://github.com/kimmyuung/MoiveProject.git">JSP Movie Reservation Project</a>
 <a href="https://github.com/kimmyuung/JSP-wiki.git"> JSP Wiki Project</a>
+<!--
 <a href="https://github.com/kimmyuung/springproject_animalhospital.git"> Spring Find Animal Hospital Project</a>
+-->
 </div>
 
 
