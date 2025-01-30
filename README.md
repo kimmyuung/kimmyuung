@@ -27,12 +27,6 @@
 ![kimmyuung's github stats](https://github-readme-stats.vercel.app/api?username=kimmyuung&show_icons=true)
 [![kimmyuung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyuung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimmyuung)
 
-## My Project
-<a href="https://github.com/kimmyuung/Java_Console_MovieTicketing.git">JavaConsole Movie Reservation System</a> <br>
-<a href="https://github.com/kimmyuung/MoiveProject.git">JSP Movie Reservation Project</a> <br>
-<a href="https://github.com/kimmyuung/JSP-wiki.git"> JSP Wiki Project</a> <br>
-<a href="https://github.com/kimmyuung/springproject_animalhospital.git"> Spring Find Animal Hospital Project</a>
-
 </div>
 
 
