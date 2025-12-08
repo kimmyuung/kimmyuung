@@ -1,5 +1,3 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Kim-Myung-Ho&fontSize=90)
 
 <div align="center">
@@ -22,14 +20,6 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
   </p>
-
-## Git stat
-![kimmyuung's github stats](https://github-readme-stats.vercel.app/api?username=kimmyuung&show_icons=true)
-[![kimmyuung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyuung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimmyuung)
-
-</div>
-
-
 
 
 <!--
