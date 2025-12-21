@@ -2,13 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7928ca&height=300&section=header&text=Kim-Myung-Ho&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&customColorList=20,22&height=80&text=Welcome%20to%20My%20World&fontSize=35&fontAlignY=50" />
-</p>
+
 
 <div align="center">
   <h2>👋 안녕하세요, 김명호(kimmyungho)입니다!</h2>
-  <p><b>AI 기반 시스템 아키텍처</b>와 <b>보안 지향적 백엔드 설계</b>를 연구하는 개발자입니다.</p>
 </div>
 
 ---
