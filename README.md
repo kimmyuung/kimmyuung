@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,10&height=300&section=header&text=Kim-Myung-Ho&fontSize=80&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=100&section=header&text=Welcome%20to%20My%20World&fontSize=40" />
-</p>
 
 <h2 align="center">👋 안녕하세요, 김명호(kimmyungho)입니다!</h2>
 
