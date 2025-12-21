@@ -1,28 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,10&height=300&section=header&text=Kim-Myung-Ho&fontSize=80&animation=twinkling" />
-</p>
-
-
-<h2 align="center">👋 안녕하세요, 김명호(kimmyungho)입니다!</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
----
-
-명호님이 최근 학습하며 진행하신 두 개의 프로젝트(ITDG - 지능형 테스트 데이터 생성기와 Diary-Backend)의 기술 스택을 완벽하게 분석하여 프로필에 통합해 드립니다.
-
-단순히 나열하는 것이 아니라, 실제 프로젝트의 설정 파일(build.gradle, requirements.txt, package.json)과 인프라 구성(docker-compose.yml, k8s)을 근거로 명호님의 역량을 가장 돋보이게 구성했습니다.
-
-🛠 최신 프로젝트 기반 통합 기술 스택 (Markdown)
-Markdown
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7928ca&height=300&section=header&text=Kim-Myung-Ho&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </p>
 
@@ -81,14 +57,22 @@ Markdown
 
 ---
 
-### 🚀 About Me
-- ✉️ 질문이 있으시다면 언제든 **[kimmyungho1003@naver.com](mailto:kimmyungho1003@naver.com)**로 연락주세요!
-- 💻 꾸준히 성장하며 가치를 만들어내는 개발자를 지향합니다.
-
-### 🏆 Contribution Graph
+### 📈 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimmyuung&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kimmyuung&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928ca&icon_color=7928ca&text_color=9effff&bg_color=1a1b27" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyuung&layout=compact&theme=tokyonight&hide_border=true&title_color=7928ca&text_color=9effff&bg_color=1a1b27" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimmyuung&theme=tokyonight&area=true&hide_border=true&color=7928ca" width="100%" />
+</p>
+
+---
+
+### 🚀 Recent Projects
+- 🤖 **ITDG:** AI/ML 기반 지능형 데이터 생성기 (Java 21, Spring Boot 4.0, MSA)
+- 📓 **Diary-Backend:** 음성 인식 및 감정 분석 일기 서비스 (Django, STT, AI)
+
 <p align="right">
-  <img src="
+  <img src="https://komarev.com/ghpvc/?username=kimmyuung&color=7928ca&style=flat-square&label=VISITORS" />
+</p>
