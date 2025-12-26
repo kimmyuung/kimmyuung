@@ -64,4 +64,28 @@
 
 #### 📓 3. Diary-Backend
 > **음성 인식 및 감정 분석 힐링 다이어리**
-> *사용자의 음성 일기를
+> *사용자의 음성 일기를 텍스트로 변환(STT)하고, 감정을 분석하여 기록해주는 서비스 백엔드입니다.*
+
+- **Tech Stack:** Python, Django, Google STT API, NLP
+- **Key Features:**
+  - 비동기 작업 큐를 활용한 음성 데이터 실시간 처리 파이프라인 구축
+  - 자연어 처리(NLP)를 통한 감정 분석 및 RESTful API 설계
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kimmyuung&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928ca&icon_color=7928ca&text_color=9effff&bg_color=1a1b27" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyuung&layout=compact&theme=tokyonight&hide_border=true&title_color=7928ca&text_color=9effff&bg_color=1a1b27" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimmyuung&theme=tokyonight&area=true&hide_border=true&color=7928ca" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimmyuung&color=7928ca&style=flat-square&label=VISITORS" />
+</div>
