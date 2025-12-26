@@ -77,9 +77,8 @@
 
 - **Tech Stack:** Java 21, Spring Boot 4.0, Python (CTGAN), Spring Cloud
 - **Key Features:**
-  - **AI Integration:** SDV/CTGAN 알고리즘을 활용해 원본 데이터의 통계적 특성을 유지한 가상 데이터 생성
+  - **AI Integration:** SDV/CTGAN 알고리즘을 활용해 원본 데이터의 통계적 특성을 유지한 가상 데이터 생성 gpt-4-0-mini 모델 사용
   - **Microservices:** 대용량 데이터 처리의 유연한 확장을 위한 MSA 아키텍처 적용
-- **Role:** Backend Lead & AI Model Serving
 
 #### 📓 3. AI Voice Diary (Capstone Project)
 > **음성 인식 및 AI 기반 감정 분석/그림 일기 생성 모바일 서비스**
@@ -91,9 +90,9 @@
   - **AI & API:** OpenAI (GPT/DALL-E), Google STT (Speech-to-Text)
   - **Infra:** Docker, Nginx, AWS EC2, GitHub Actions (CI/CD)
 - **Key Features:**
-  - **Voice-to-Text:** 녹음된 음성 데이터를 비동기 큐(Celery)를 통해 텍스트로 변환
+  - **Voice-to-Text:** WHISPER API 통해 녹음을 실행 후에 녹음된 음성 데이터를 비동기 큐(Celery)를 통해 텍스트로 변환
   - **AI Content Generation:** 일기 내용을 바탕으로 AI가 감정 분석(Emotion Analysis), 요약(Summary), 삽화(Image Gen) 자동 생성
-  - **Secure Architecture:** JWT 인증 및 음성 데이터 보안 처리, SSL 적용
+  - **Secure Architecture:** JWT 인증 및 음성 데이터 보안 처리
 
 <br>
 
