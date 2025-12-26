@@ -62,14 +62,19 @@
   - **Microservices:** 대용량 데이터 처리의 유연한 확장을 위한 MSA 아키텍처 적용
 - **Role:** Backend Lead & AI Model Serving
 
-#### 📓 3. Diary-Backend
-> **음성 인식 및 감정 분석 힐링 다이어리**
-> *사용자의 음성 일기를 텍스트로 변환(STT)하고, 감정을 분석하여 기록해주는 서비스 백엔드입니다.*
+#### 📓 3. AI Voice Diary (Capstone Project)
+> **음성 인식 및 AI 기반 감정 분석/그림 일기 생성 모바일 서비스**
+> *사용자가 말로 일기를 쓰면 AI가 텍스트로 변환하고, 감정을 분석하여 그날의 분위기에 맞는 그림과 요약을 생성해주는 힐링 앱입니다.*
 
-- **Tech Stack:** Python, Django, Google STT API, NLP
+- **Tech Stack:**
+  - **Mobile:** React Native, Expo, TypeScript, React Query
+  - **Backend:** Python, Django REST Framework, Celery, Redis
+  - **AI & API:** OpenAI (GPT/DALL-E), Google STT (Speech-to-Text)
+  - **Infra:** Docker, Nginx, AWS EC2, GitHub Actions (CI/CD)
 - **Key Features:**
-  - 비동기 작업 큐를 활용한 음성 데이터 실시간 처리 파이프라인 구축
-  - 자연어 처리(NLP)를 통한 감정 분석 및 RESTful API 설계
+  - **Voice-to-Text:** 녹음된 음성 데이터를 비동기 큐(Celery)를 통해 텍스트로 변환
+  - **AI Content Generation:** 일기 내용을 바탕으로 AI가 감정 분석(Emotion Analysis), 요약(Summary), 삽화(Image Gen) 자동 생성
+  - **Secure Architecture:** JWT 인증 및 음성 데이터 보안 처리, SSL 적용
 
 ---
 
