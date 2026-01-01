@@ -45,12 +45,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-**AI & Machine Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SDV/CTGAN-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Speech_To_Text-4285F4?style=for-the-badge&logo=google&logoColor=white">
-</p>
 
 <br>
 
