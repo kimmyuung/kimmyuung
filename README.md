@@ -6,7 +6,6 @@
   <b>Kim Myung Ho</b><br>
   <br>
   <b>Full Stack Engineer interested in MSA & AI</b><br>
-  최신 기술(Java 21, React 19)을 기반으로 확장 가능한 아키텍처를 설계하며,<br>
   웹과 모바일, AI를 아우르는 융합형 서비스를 만드는 데 관심이 있습니다.
 </p>
 
