@@ -73,19 +73,26 @@
   - **AI Integration:** SDV/CTGAN 알고리즘을 활용해 원본 데이터의 통계적 특성을 유지한 가상 데이터 생성 gpt-4-0-mini 모델 사용
   - **Microservices:** 대용량 데이터 처리의 유연한 확장을 위한 MSA 아키텍처 적용
 
-#### 📓 3. AI Voice Diary (Capstone Project)
-> **음성 인식 및 AI 기반 감정 분석/그림 일기 생성 모바일 서비스**
-> *사용자가 말로 일기를 쓰면 AI가 텍스트로 변환하고, 감정을 분석하여 그날의 분위기에 맞는 그림과 요약을 생성해주는 힐링 앱입니다.*
+### 3. 🔐 DayLog (AI & 보안 특화 오프라인-First 일기장)
+> **"네트워크가 끊겨도, DB가 유출되어도 안전한 일기장"**
+> React Native와 Django로 구축한 엔터프라이즈급 아키텍처의 스마트 일기장 플랫폼입니다. 단순 CRUD를 넘어 **오프라인 동기화**, **데이터 암호화**, **자체 모니터링 인프라**까지 직접 설계하고 구현했습니다.
 
-- **Tech Stack:**
-  - **Mobile:** React Native, Expo, TypeScript, React Query
-  - **Backend:** Python, Django REST Framework, Celery, Redis
-  - **AI & API:** OpenAI (GPT/DALL-E), Google STT (Speech-to-Text)
-  - **Infra:** Docker, Nginx, AWS EC2, GitHub Actions (CI/CD)
-- **Key Features:**
-  - **Voice-to-Text:** WHISPER API 통해 녹음을 실행 후에 녹음된 음성 데이터를 비동기 큐(Celery)를 통해 텍스트로 변환
-  - **AI Content Generation:** 일기 내용을 바탕으로 AI가 감정 분석(Emotion Analysis), 요약(Summary), 삽화(Image Gen) 자동 생성
-  - **Secure Architecture:** JWT 인증 및 음성 데이터 보안 처리
+| 항목 | 상세 내용 |
+| --- | --- |
+| **핵심 기술** | **Offline-first Sync**, **AES-256 DB Encryption**, **AI Analysis (Gemini)**, **Biometric Auth** |
+| **Frontend** | React Native (Expo), TypeScript, React Query, Zustand |
+| **Backend** | Django REST Framework, Celery, Redis, PostgreSQL |
+| **Infra & DevOps** | Docker Compose, GitHub Actions (CI/CD), Nginx, EC2 |
+| **Monitoring** | **Prometheus + Grafana** (서버 리소스 및 API 성능 시각화), Sentry |
+
+#### 🚀 Technical Highlights (기술적 도전 및 해결)
+- **📡 완벽한 오프라인 지원 (Offline-First):** 네트워크가 불안정한 환경에서도 끊김 없는 사용자 경험을 위해 `OfflineQueue` 시스템을 직접 구현하여, 연결 복구 시 자동으로 서버와 데이터를 동기화합니다.
+- **🛡️ 강력한 데이터 보안:** 민감한 일기 데이터 보호를 위해 애플리케이션 레벨에서 **AES-256 암호화**를 적용하고, 모바일 생체 인증(지문/FaceID)을 통합했습니다.
+- **🤖 비동기 AI 파이프라인:** Celery와 Redis 메시지 큐를 도입하여 AI 감정 분석 및 이미지 생성 작업을 비동기로 처리, 사용자 응답 지연(Latency)을 최소화했습니다.
+- **📊 자체 모니터링 구축:** SaaS에 의존하지 않고 Prometheus와 Grafana를 Docker로 직접 구성하여 서버 상태와 비즈니스 지표를 실시간으로 대시보드에서 관제합니다.
+- **🖥️ 관리자 대시보드:** Vite + React 기반의 별도 어드민 웹을 구축하여 사용자 관리 및 콘텐츠 모니터링 시스템을 갖췄습니다.
+
+📂 **Repository:** [capstone-diary](https://github.com/kimmyuung/capstone-diary)
 
 <br>
 
