@@ -183,30 +183,6 @@
 
 <br>
 
----
-
-# 📈 GitHub Stats
-
-<br>
-
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimmyuung&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928ca&icon_color=7928ca&text_color=9effff&bg_color=1a1b27"
-    alt="stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyuung&layout=compact&theme=tokyonight&hide_border=true&title_color=7928ca&text_color=9effff&bg_color=1a1b27"
-    alt="languages"
-  />
-
-</div>
-
-<br>
-
 <div align="center">
 
   <img
